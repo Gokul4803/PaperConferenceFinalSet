@@ -1,0 +1,211 @@
+.bg-container-mainpage{
+    background-image:url("https://www.gousa.study/images/masters-in-biomedical-imaging-usa.jpg");
+    height:100vh;
+    background-size:cover;
+
+}
+
+.heading-mainpage{
+    font-family:"Arial";
+    color:maroon;
+    padding:30px;
+    text-align:center;
+    
+}
+
+.mainpage-cards-image{
+    height:100px;
+    width:100px;
+    text-align: bottom;
+}
+
+.cards-heading-mainpage{
+    font-family:"bree serif";
+    font-style:italic;
+    color:black;
+    
+   
+}
+.cards-paragraph-mainpage{
+    font-family:"fantasy";
+    color:darkslateblue;
+    margin:10px;
+}
+
+.card-1-mainpage{
+    background-color:aliceblue;
+    margin:50px;
+    padding:30px;
+    border-radius:10px;
+    
+
+}
+
+.card-work{
+    margin:130px;
+}
+
+.bg-container-EmgPage{
+    background-image:url("https://neurotestinggroup.com/wp-content/uploads/2019/04/emg.jpg");
+    background-size:cover;
+    height:40vh;
+
+}
+
+.emg-mage-work{
+    height:540px;
+    width: 780px;
+}
+
+.emg-button-work{
+    margin:10px
+    
+}
+.emg-button-work1{
+    text-align:center
+}
+
+.bg-container-EmgPage-2{
+
+    background-image:url("https://neurotestinggroup.com/wp-content/uploads/2019/04/emg.jpg");
+    background-size:cover;
+    height:40vh;
+
+}
+
+.image-luka{
+    height:345px;
+    width:345px;
+    text-align:center;
+   
+}
+
+.sectionEmgDisease-image{
+    height:150px;
+    width:150px;
+}
+
+.bg-container {
+    background-color: #1b1b1b;
+}
+
+.BookStoreHomePage-heading {
+    color:darkblue;
+    font-family: "Bree Serif";
+    font-weight:bold;
+    font-style:italic;
+    background-color:#ffffff;
+    background-size:cover;
+    text-align:center;
+}
+
+.BookStoreHomePage-apj-card {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+
+}
+
+.BookStoreHomePage-apj-card-heading {
+    color: #183b56;
+    font-size: 20px;
+    font-family: "Bree Serif";
+}
+
+.BookStoreHomePage-apj-card-paragraph {
+    font-weight: bold;
+    font-family: "Bree Serif"
+}
+
+.BookStoreHomePage-apj-card-image {
+    width: 126px;
+    height: 180px;
+}
+
+.BookStoreHomePage-apj-card-content {
+    padding: 16px;
+}
+
+.BookStoreHomePage-heading2 {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.BookStoreHomePage-chetan-bhagat-card-image {
+    height: 150px;
+    width: 100px;
+}
+
+.BookStoreHomePage-chetan-bhagat-card-content {
+    padding: 16px;
+}
+
+.BookStoreHomePage-chetan-bhagat-card-heading {
+    color: #ffffff;
+    font-family: "bree Serif";
+    font-size: 20px;
+    font-weight:bold;
+    text-decoration:underline;
+}
+
+.BookStoreHomePage-chetan-bhagat-card-paragarph {
+    font-family: "bree Serif";
+    color: #ffffff;
+}
+
+.BookStoreHomePage-chetan-bhagat-card {
+    margin-top: 15px;
+}
+
+.BookStoreHomePage-harry-potter-card-image {
+    height: 150px;
+    width: 100px;
+}
+
+.BookStoreHomePage-harry-potter-card-content {
+    padding: 16px;
+}
+
+.sectionWingsOfFireDetailPage-bg-container {
+    background-color: #1b1b1b;
+}
+
+.card-buttons {
+    text-align: center;
+    margin: 20px;
+}
+
+.sectionWingsOfFireDetailPage-image {
+    height: 250px;
+    width: 170px;
+}
+
+.gdgdg {
+    padding: 20px;
+}
+
+.imgfd {
+    margin-left: 100px;
+}
+
+.dur{
+    height:90px;
+    
+}
+
+.BookStoreHomePage-harry-potter-card{
+    margin-top:20px;
+}
+
+.jin{
+    text-align:center;
+}
+
+.sectionWingsOfFireDetailPage-image12{
+    height:390px;
+    width:990px;
+    margin-top:30px;
+}
+
+.wig{
+    color:antiquewhite;
+}
